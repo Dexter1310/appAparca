@@ -1,0 +1,2 @@
+rootProject.name='Aparca'
+include ':app'
